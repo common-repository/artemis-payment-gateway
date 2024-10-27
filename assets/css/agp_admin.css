@@ -1,0 +1,6 @@
+.woocommerce_options_panel .artg_schedule_price_wrapper .short:first-of-type {
+	margin-bottom: 1em;
+}
+.woocommerce_options_panel .artg_schedule_price_wrapper .short:nth-of-type(2) {
+    clear: left;
+}

@@ -1,0 +1,19 @@
+{
+    "name": "cryptopayment/cryptopayment",
+    "description": "Woocommerce Handle Crypto Payment",
+    "autoload": {
+        "psr-4": {
+            "Cryptopayment\\Cryptopayment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John"
+        }
+    ],
+    "require": {
+        "soneso/stellar-php-sdk": "^1.0",
+        "endroid/qr-code": "^4.6",
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
